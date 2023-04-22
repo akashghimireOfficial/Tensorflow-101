@@ -1,4 +1,5 @@
 Why is it necessary to build tf pipeleine? I mean it is much easier just to train on numpy dataset. So, why use extra effort? 
+
 ==> Before, answering this we need to know what happens when we train data using numpy, then all of the data is loaded in to the memory directly.
 > In this scenario what happen if the training dataset is too large and can't fit into a memory? 
 
